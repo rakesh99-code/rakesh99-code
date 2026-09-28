@@ -121,50 +121,38 @@ Generative AI        ████████████░░░░░░░�
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎓 Alumni Student Job Portal
 
 **MERN Stack College Student & Alumni Job Portal**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
-`Mongoose` `JWT` `Tailwind CSS` `Axios`
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
-* College email-based registration
-* Student and Alumni role-based access
-* JWT authentication
-* User profile management
-* Job posting and job search
-* Job application tracking
-* Application status management
-* Responsive UI with Tailwind CSS
-* Secure API with validation and authentication
+- Student & Alumni role-based access
+- Job posting, search & applications
+- Secure JWT authentication
 
 <a href="https://github.com/rakesh99-code/Alumni-job-portal">
-<img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2EA043?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 Operations AI Dashboard
 
 **Full-Stack Operations Management Platform**
 
-`React` `Node.js` `Express.js` `SQLite`
-`JWT` `REST APIs`
+`React` `Node.js` `Express` `SQLite` `JWT`
 
-* Centralized operations management interface
-* RESTful APIs using Node.js and Express.js
-* JWT authentication
-* Role-based access control
-* SQLite database for data storage
-* AI-powered query functionality
-* CORS and environment-based configuration
+- RESTful APIs & operations management
+- JWT authentication & RBAC
+- AI-powered queries
 
 <a href="https://github.com/rakesh99-code/Operations-Dashboard">
-<img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2EA043?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -173,7 +161,7 @@ Generative AI        ████████████░░░░░░░�
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌱 Urban Oasis
 
@@ -181,26 +169,23 @@ Generative AI        ████████████░░░░░░░�
 
 `React` `JavaScript` `HTML` `CSS`
 
-* Interactive gardening-focused web application
-* Helps users explore and plan urban gardening ideas
-* Clean and user-friendly interface
-* Designed for practical urban gardening use
-* Focused on improving the user experience
+- Interactive gardening platform
+- Urban gardening ideas & planning
+- Clean and user-friendly UI
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 💪 FitnessBooster
+## 💻 More Coming...
 
-**Fitness & Wellness Platform**
+**Always building.**
 
-`HTML` `CSS` `JavaScript` `React`
+`MERN` `Java` `DSA` `GenAI`
 
-* Fitness-focused web application
-* Designed to support workout and wellness activities
-* User-friendly interface
-* Built as an early project to strengthen web development fundamentals
+- 🚀 Full-Stack Development
+- 🤖 Generative AI
+- ☕ Java & DSA
 
 </td>
 
@@ -208,9 +193,6 @@ Generative AI        ████████████░░░░░░░�
 </table>
 
 </div>
-
----
-
 ## 🧠 What I Focus On
 
 | Area                      | Focus                                      |
