@@ -97,6 +97,7 @@ Goal      : Software Engineer
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
+---
 ## 🛠 Development Focus
 
 ```text
