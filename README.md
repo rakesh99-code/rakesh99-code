@@ -8,20 +8,24 @@
 
 <br><br>
 
+<!-- EMAIL -->
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<!-- GITHUB -->
 <a href="https://github.com/rakesh99-code">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<!-- LEETCODE -->
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<!-- LINKEDIN -->
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -29,7 +33,6 @@
 ![](https://komarev.com/ghpvc/?username=rakesh99-code&style=for-the-badge&color=2EA043&label=PROFILE+VIEWS)
 
 </div>
-
 ---
 
 ## 👋 Hello, I'm Rakesh
@@ -54,6 +57,61 @@ Focus     : Web Development & Generative AI
 Learning  : Java • DSA • MERN • LLMs
 Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
+````
+
+---
+
+## 🟢 What I'm Working On
+
+* 🚀 Building full-stack applications using the **MERN Stack**
+* 🤖 Exploring **LLMs and Generative AI**
+* 💻 Improving **Java and DSA** for technical interviews
+* 🗄️ Strengthening **SQL and database fundamentals**
+* 🌱 Building practical projects to improve software development skills
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,js&theme=dark"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-2EA043?style=for-the-badge"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+
+### AI & Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</div>
+
 ---
 
 ## 🛠 Development Focus
