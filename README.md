@@ -85,7 +85,7 @@ Goal      : Software Engineer
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,postman&theme=dark"/>
 
 <br><br>
 
@@ -94,12 +94,7 @@ Goal      : Software Engineer
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"/>
 
 ### AI & Generative AI
 
@@ -111,8 +106,6 @@ Goal      : Software Engineer
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
-
----
 
 ## 🛠 Development Focus
 
