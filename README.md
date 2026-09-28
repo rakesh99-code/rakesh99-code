@@ -33,6 +33,7 @@
 ![](https://komarev.com/ghpvc/?username=rakesh99-code&style=for-the-badge&color=2EA043&label=PROFILE+VIEWS)
 
 </div>
+
 ---
 
 ## 👋 Hello, I'm Rakesh
@@ -57,8 +58,7 @@ Focus     : Web Development & Generative AI
 Learning  : Java • DSA • MERN • LLMs
 Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
-````
-
+```
 
 ## 🟢 What I'm Working On
 
@@ -97,7 +97,9 @@ Goal      : Software Engineer
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
+
 ---
+
 ## 🛠 Development Focus
 
 ```text
@@ -110,6 +112,8 @@ MongoDB              ████████████░░░░░░░�
 SQL                  ██████████████░░░░░░  70%
 DSA                  ████████████░░░░░░░░  60%
 Generative AI        ████████████░░░░░░░░  60%
+```
+
 ---
 
 # 🚀 Featured Projects
@@ -191,6 +195,7 @@ Generative AI        ████████████░░░░░░░�
 </table>
 
 </div>
+
 ## 🧠 What I Focus On
 
 | Area                      | Focus                                      |
