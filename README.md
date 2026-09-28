@@ -1,26 +1,19 @@
+````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1F6FEB,70:2EA043,100:56D364&text=Rakesh%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20LLMs%20%26%20Generative%20AI&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3000\&pause=1000\&color=56D364\&center=true\&vCenter=true\&width=750\&lines=Full-Stack+MERN+Developer;LLMs+%26+Generative+AI+Enthusiast;Building+Real-World+Web+Applications;Java+%7C+JavaScript+%7C+React;DSA+%7C+Web+Development+%7C+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;LLMs+%26+Generative+AI+Enthusiast;Building+Real-World+Web+Applications;Java+%7C+JavaScript+%7C+React;DSA+%7C+Web+Development+%7C+AI)](https://git.io/typing-svg)
 
 <br>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/rakesh99-code">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=rakesh99-code\&style=for-the-badge\&color=2EA043\&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rakesh99-code&style=for-the-badge&color=2EA043&label=PROFILE+VIEWS)
 
 </div>
 
@@ -34,7 +27,7 @@ I'm a **Computer Science undergraduate** passionate about **Full-Stack Web Devel
 
 I enjoy building web applications that combine clean user interfaces, backend APIs, databases, authentication, and AI-powered features.
 
-Currently improving my skills in **MERN Stack, Java, DSA, SQL, and Generative AI** while working on real-world projects.
+Currently improving my skills in **MERN Stack, Java, DSA, SQL, and Generative AI** while working on practical projects.
 
 ---
 
@@ -48,7 +41,7 @@ Focus     : Web Development & Generative AI
 Learning  : Java • DSA • MERN • LLMs
 Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
-```
+````
 
 ---
 
@@ -78,12 +71,16 @@ Goal      : Software Engineer
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-2EA043?style=for-the-badge"/>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
@@ -117,7 +114,7 @@ Generative AI        ████████████░░░░░░░�
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -126,19 +123,24 @@ Generative AI        ████████████░░░░░░░�
 
 <td width="50%">
 
-### 🤖 Operations AI Dashboard
+## 🎓 Alumni Student Job Portal
 
-**Full-Stack Operations Management Platform**
+**MERN Stack College Student & Alumni Job Portal**
 
-`React` `Node.js` `Express.js` `SQLite` `JWT`
+`React.js` `Node.js` `Express.js` `MongoDB`
+`Mongoose` `JWT` `Tailwind CSS` `Axios`
 
-* Centralized operations management interface
-* RESTful APIs using Node.js and Express.js
-* JWT authentication and role-based access control
-* SQLite database for data storage
-* AI-powered query functionality
+* College email-based registration
+* Student and Alumni role-based access
+* JWT authentication
+* User profile management
+* Job posting and job search
+* Job application tracking
+* Application status management
+* Responsive UI with Tailwind CSS
+* Secure API with validation and authentication
 
-<a href="https://github.com/rakesh99-code/Operations-Dashboard">
+<a href="https://github.com/rakesh99-code/Alumni-job-portal">
 <img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
 </a>
 
@@ -146,18 +148,22 @@ Generative AI        ████████████░░░░░░░�
 
 <td width="50%">
 
-### 🌱 Urban Oasis
+## 🤖 Operations AI Dashboard
 
-**Smart Urban Gardening Platform**
+**Full-Stack Operations Management Platform**
 
-`React` `JavaScript` `HTML` `CSS`
+`React` `Node.js` `Express.js` `SQLite`
+`JWT` `REST APIs`
 
-* Interactive gardening-focused web application
-* Helps users explore and plan urban gardening ideas
-* Clean and user-friendly interface
-* Designed as a practical web application for urban spaces
+* Centralized operations management interface
+* RESTful APIs using Node.js and Express.js
+* JWT authentication
+* Role-based access control
+* SQLite database for data storage
+* AI-powered query functionality
+* CORS and environment-based configuration
 
-<a href="YOUR_URBAN_OASIS_REPO">
+<a href="https://github.com/rakesh99-code/Operations-Dashboard">
 <img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
 </a>
 
@@ -169,39 +175,32 @@ Generative AI        ████████████░░░░░░░�
 
 <td width="50%">
 
-### 💪 FitnessBooster
+## 🌱 Urban Oasis
 
-**Fitness & Wellness Platform**
+**Smart Urban Gardening Platform**
 
-`HTML` `CSS` `JavaScript` `React`
+`React` `JavaScript` `HTML` `CSS`
 
-* Fitness-focused application
-* Designed to support workout and wellness activities
-* User-friendly interface
-* Built as an early project to strengthen web development fundamentals
-
-<a href="YOUR_FITNESSBOOSTER_REPO">
-<img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
-</a>
+* Interactive gardening-focused web application
+* Helps users explore and plan urban gardening ideas
+* Clean and user-friendly interface
+* Designed for practical urban gardening use
+* Focused on improving the user experience
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Assistant Bot
+## 💪 FitnessBooster
 
-**AI-Powered Assistant Application**
+**Fitness & Wellness Platform**
 
-`JavaScript` `React` `Node.js` `Generative AI`
+`HTML` `CSS` `JavaScript` `React`
 
-* AI-powered conversational functionality
-* Interactive user interface
-* Designed to explore LLM and Generative AI concepts
-* Focused on practical AI application development
-
-<a href="YOUR_AI_ASSISTANT_REPO">
-<img src="https://img.shields.io/badge/View%20Project-2EA043?style=for-the-badge&logo=github"/>
-</a>
+* Fitness-focused web application
+* Designed to support workout and wellness activities
+* User-friendly interface
+* Built as an early project to strengthen web development fundamentals
 
 </td>
 
@@ -290,9 +289,18 @@ Future 🎯 Software Engineer
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/rakesh99-code/rakesh99-code/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
@@ -306,14 +314,6 @@ Future 🎯 Software Engineer
 💬 Always open to discussing **Full-Stack Development · MERN · Java · DSA · Generative AI**
 
 <br><br>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://github.com/rakesh99-code">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -336,3 +336,21 @@ Future 🎯 Software Engineer
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,40:1F6FEB,75:2EA043,100:56D364"/>
 
 </div>
+```
+
+### What I changed
+
+* **1st:** 🎓 Alumni Student Job Portal
+* **2nd:** 🤖 Operations AI Dashboard
+* **3rd:** 🌱 Urban Oasis
+* **4th:** 💪 FitnessBooster
+* Removed the **AI Assistant Bot** from Featured Projects.
+* Removed `YOUR_EMAIL`, `YOUR_LINKEDIN_URL`, and fake repository URLs.
+* Added your actual **Alumni-job-portal** repository link.
+* Kept the **Operations Dashboard** repository link.
+* Kept Urban Oasis and FitnessBooster without fake links.
+* Kept the **Snake** section and removed the Pacman requirement.
+* Removed the invalid `mailto`/placeholder contact buttons.
+* Used the actual technologies/features you provided for the Alumni Job Portal rather than inventing additional features.
+
+Your Alumni portal repository is also shown as **JavaScript 97.3%, CSS 2.1%, HTML 0.6%**, so describing it primarily as a JavaScript/MERN project is consistent with the repository information you provided.
