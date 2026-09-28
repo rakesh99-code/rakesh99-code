@@ -101,17 +101,15 @@ Goal      : Software Engineer
 ## 🛠 Development Focus
 
 ```text
-Java                 ████████████████░░░░  Learning & Practicing
-JavaScript           █████████████████░░░  Learning & Building
-React.js             ███████████████░░░░░  Building Projects
-Node.js              ███████████████░░░░░  Building Projects
-Express.js           ███████████████░░░░░  Building Projects
-MongoDB              ████████████░░░░░░░░  Learning & Using
-SQL                  ██████████████░░░░░░  Learning & Practicing
-DSA                  ████████████░░░░░░░░  Practicing
-Generative AI        ████████████░░░░░░░░  Exploring
-```
-
+Java                 ████████████████░░░░  80%
+JavaScript           █████████████████░░░  85%
+React.js             ███████████████░░░░░  75%
+Node.js              ███████████████░░░░░  75%
+Express.js           ███████████████░░░░░  75%
+MongoDB              ████████████░░░░░░░░  60%
+SQL                  ██████████████░░░░░░  70%
+DSA                  ████████████░░░░░░░░  60%
+Generative AI        ████████████░░░░░░░░  60%
 ---
 
 # 🚀 Featured Projects
