@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1F6FEB,70:2EA043,100:56D364&text=Rakesh%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20LLMs%20%26%20Generative%20AI&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0D1117,35:1F6FEB,70:2EA043,100:56D364&amp;text=Rakesh%20Rao&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20MERN%20Developer%20%7C%20LLMs%20%26%20Generative%20AI&amp;descAlignY=60"/>
 
 <br>
 
@@ -10,22 +10,22 @@
 
 <!-- EMAIL -->
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-2EA043?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <!-- GITHUB -->
 <a href="https://github.com/rakesh99-code">
-<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <!-- LEETCODE -->
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
 </a>
 
 <!-- LINKEDIN -->
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <br><br>
