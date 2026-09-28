@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1F6FEB,70:2EA043,100:56D364&text=Rakesh%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20LLMs%20%26%20Generative%20AI&descAlignY=60"/>
@@ -43,7 +42,7 @@ Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
 ````
 
----
+
 
 ## 🟢 What I'm Working On
 
