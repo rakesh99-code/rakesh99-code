@@ -59,7 +59,6 @@ Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
 ````
 
----
 
 ## 🟢 What I'm Working On
 
@@ -69,8 +68,6 @@ Goal      : Software Engineer
 * 🗄️ Strengthening **SQL and database fundamentals**
 * 🌱 Building practical projects to improve software development skills
 
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -79,22 +76,16 @@ Goal      : Software Engineer
 
 <img src="https://skillicons.dev/icons?i=java,c,js&theme=dark"/>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
-
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,postman&theme=dark"/>
-
-<br><br>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,js&theme=dark"/>
 <img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-2EA043?style=for-the-badge"/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
 ### AI & Generative AI
 
@@ -106,7 +97,6 @@ Goal      : Software Engineer
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
-
 ## 🛠 Development Focus
 
 ```text
