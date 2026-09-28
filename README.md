@@ -296,33 +296,36 @@ Future 🎯 Software Engineer
 
 <div align="center">
 
-💬 Always open to discussing **Backend Development · Java · Spring Boot · Microservices · Open Source**
+💬 Always open to discussing **Full-Stack Development · MERN · Java · DSA · Generative AI**
 
 <br>
 
-<a href="mailto:23h51a6650@cmrcet.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:238r1a0580@cmrec.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/rakesh-rao1122/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
-<a href="https://github.com/SrujanNampally">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/rakesh99-code">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
-<a href="https://leetcode.com/srujankumar38/">
-<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<a href="https://leetcode.com/u/rakesh99-code/">
+<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 </a>
 
 <br><br>
 
-> ### *"First, solve the problem. Then, write clean code. Finally, build it to scale."*
+> ### *"Learn. Build. Solve. Improve."*
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together.;Happy+Coding!+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3500&amp;pause=1000&amp;color=56D364&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together.;Happy+Coding!+☕)](https://git.io/typing-svg)
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,40:1F6FEB,75:2EA043,100:56D364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;section=footer&amp;color=0:0D1117,40:1F6FEB,75:2EA043,100:56D364"/>
 
 </div>
