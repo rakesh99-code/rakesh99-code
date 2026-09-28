@@ -2,12 +2,26 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1F6FEB,70:2EA043,100:56D364&text=Rakesh%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20LLMs%20%26%20Generative%20AI&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;LLMs+%26+Generative+AI+Enthusiast;Building+Real-World+Web+Applications;Java+%7C+JavaScript+%7C+React;DSA+%7C+Web+Development+%7C+AI)](https://git.io/typing-svg)
-
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;LLMs+%26+Generative+AI+Enthusiast;Building+Real-World+Web+Applications;Java+%7C+JavaScript+%7C+React;DSA+%7C+Web+Development+%7C+AI)](https://git.io/typing-svg)
+
+<br><br>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-2EA043?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/rakesh99-code">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -16,6 +30,7 @@
 
 </div>
 
+---
 
 ## 👋 Hello, I'm Rakesh
 
@@ -39,61 +54,6 @@ Focus     : Web Development & Generative AI
 Learning  : Java • DSA • MERN • LLMs
 Interests : Full-Stack Development • AI • Problem Solving
 Goal      : Software Engineer
-````
-
----
-
-## 🟢 What I'm Working On
-
-* 🚀 Building full-stack applications using the **MERN Stack**
-* 🤖 Exploring **LLMs and Generative AI**
-* 💻 Improving **Java and DSA** for technical interviews
-* 🗄️ Strengthening **SQL and database fundamentals**
-* 🌱 Building practical projects to improve software development skills
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,js&theme=dark"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN%20Stack-2EA043?style=for-the-badge"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-
-### AI & Generative AI
-
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</div>
-
 ---
 
 ## 🛠 Development Focus
