@@ -336,21 +336,3 @@ Future 🎯 Software Engineer
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,40:1F6FEB,75:2EA043,100:56D364"/>
 
 </div>
-```
-
-### What I changed
-
-* **1st:** 🎓 Alumni Student Job Portal
-* **2nd:** 🤖 Operations AI Dashboard
-* **3rd:** 🌱 Urban Oasis
-* **4th:** 💪 FitnessBooster
-* Removed the **AI Assistant Bot** from Featured Projects.
-* Removed `YOUR_EMAIL`, `YOUR_LINKEDIN_URL`, and fake repository URLs.
-* Added your actual **Alumni-job-portal** repository link.
-* Kept the **Operations Dashboard** repository link.
-* Kept Urban Oasis and FitnessBooster without fake links.
-* Kept the **Snake** section and removed the Pacman requirement.
-* Removed the invalid `mailto`/placeholder contact buttons.
-* Used the actual technologies/features you provided for the Alumni Job Portal rather than inventing additional features.
-
-Your Alumni portal repository is also shown as **JavaScript 97.3%, CSS 2.1%, HTML 0.6%**, so describing it primarily as a JavaScript/MERN project is consistent with the repository information you provided.
